@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Bubbles&display=swap');
+
+
+
+.blessings-page {
+    
+    &::before{
+        height: 110vh;
+    }
+    p {
+      
+        font-family: "Rubik Bubbles", serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+  }
