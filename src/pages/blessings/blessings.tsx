@@ -3,7 +3,7 @@ import "./blessings.scss";
  const Blessings = () => {
     return (
         <div className='blessings-page'>
-        <p>sdfsdf</p>
+        <h1>Blessings Page</h1>
         </div>
     );
  }
