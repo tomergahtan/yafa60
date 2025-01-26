@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/yafa60/static/css/main.c8838317.css",
-    "main.js": "/yafa60/static/js/main.1536ecb4.js",
+    "main.js": "/yafa60/static/js/main.53358689.js",
     "static/media/happybirthday.webp": "/yafa60/static/media/happybirthday.de29df4f9fa74450ce89.webp",
     "index.html": "/yafa60/index.html",
     "main.c8838317.css.map": "/yafa60/static/css/main.c8838317.css.map",
-    "main.1536ecb4.js.map": "/yafa60/static/js/main.1536ecb4.js.map"
+    "main.53358689.js.map": "/yafa60/static/js/main.53358689.js.map"
   },
   "entrypoints": [
     "static/css/main.c8838317.css",
-    "static/js/main.1536ecb4.js"
+    "static/js/main.53358689.js"
   ]
 }
