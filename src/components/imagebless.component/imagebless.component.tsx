@@ -5,7 +5,7 @@ const ImageBless = ({ imageName }: { imageName: string }) => {
 
     return (
         <div className='imagebless-post'>
-            <h1>ImageBless Page</h1>
+            <h1>example text</h1>
             <img className="imagebless-img" src={imagePath} alt="Blessed Image" />
         </div>
     );
