@@ -1,10 +1,12 @@
 import React from 'react';
+import './imagebless.style.scss';
+const ImageBless = ({ imageName }: { imageName: string }) => {
+    const imagePath = require(`../../media/images/${imageName}`);
 
-
-const ImageBless = () => {
     return (
-        <div className='imagebless-page'>
-        <h1>ImageBless Page</h1>
+        <div className='imagebless-post'>
+            <h1>ImageBless Page</h1>
+            <img className="imagebless-img" src={imagePath} alt="Blessed Image" />
         </div>
     );
 }

@@ -1,12 +1,15 @@
-import React from 'react';
 import "./blessings.scss";
- const Blessings = () => {
+import ImageBless from '../../components/imagebless.component/imagebless.component';
+
+const Blessings = () => {
     return (
         <div className='blessings-page'>
-        <h1>Blessings Page</h1>
-        <p>{"אמא היקרה אנחנו מאחלים לך את כל הטוב שבעולם שתלכי בדרך הפרחים ולא בדרך הקוצים ושלא תיפגשי יותר לעולם עם תימנים"}</p>
+            <h1 className="title-business-page">Blessings Page</h1>
+            <ImageBless imageName= 'IMG-20250127-WA0005.jpg' />
+            <ImageBless imageName= 'IMG-20250127-WA0005.jpg' />
+            <ImageBless imageName= 'IMG-20250127-WA0005.jpg' />
         </div>
     );
- }
+}
 
- export default Blessings;
+export default Blessings;
