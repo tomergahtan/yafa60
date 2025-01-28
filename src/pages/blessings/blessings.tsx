@@ -7,8 +7,8 @@ const Blessings = () => {
             <h1 className="title-business-page">Blessings Page</h1>
             <ImageBless imageName= 'IMG-20250127-WA0005.jpg' />
             <VideoBless videoName= 'VID-20250127-WA0001.mp4' />
-            <ImageBless imageName= 'IMG-20250127-WA0005.jpg' />
-            <ImageBless imageName= 'IMG-20250127-WA0005.jpg' />
+            <ImageBless imageName= 'IMG-20250127-WA0006.jpg' />
+            <ImageBless imageName= 'IMG-20250127-WA0007.jpg' />
         </div>
     );
 }
