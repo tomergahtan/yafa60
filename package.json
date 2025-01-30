@@ -5,6 +5,8 @@
   "homepage": "https://tomergahtan.github.io/yafa60",
   "dependencies": {
     "cra-template-typescript": "1.2.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-font-loader": "^2.0.0",
