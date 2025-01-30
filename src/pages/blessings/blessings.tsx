@@ -39,7 +39,7 @@ const Blessings = () => {
     };
 
     const handleScroll = () => {
-        if (window.innerHeight + window.scrollY >= document.body.offsetHeight) {
+        if (window.innerHeight + window.scrollY >= document.body.offsetHeight*0.9) {
             loadMoreItems();
         }
     };
