@@ -55,6 +55,7 @@ const Blessings = () => {
         <div className='blessings-page'>
             <h1 className="title-business-page">Blessings Page</h1>
             {pipeline}
+            <h1> load to see more</h1>
         </div>
     );
 }
