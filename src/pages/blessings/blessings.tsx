@@ -46,7 +46,7 @@ const Blessings = () => {
     const [index,setIndex] = useState(3);
     const [pipeline,setPipeline] = useState(shuffledPipeline.slice(0, index));
     const handleScroll = () => {
-        if (window.innerHeight + window.scrollY >= document.body.offsetHeight) {
+        if (window.innerHeight + window.scrollY >= document.body.offsetHeight*0.99) {
             setIndex(prevIndex => {
                 const newIndex = (prevIndex + 3) >= shuffledPipeline.length ? 0 : prevIndex + 3;
                 
