@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/yafa60/static/css/main.4e1e97cb.css",
-    "main.js": "/yafa60/static/js/main.3810fe42.js",
+    "main.js": "/yafa60/static/js/main.9f9edc9d.js",
     "static/media/VID-20250127-WA0001.mp4": "/yafa60/static/media/VID-20250127-WA0001.f751388710016b052b70.mp4",
     "static/media/IMG-20250127-WA0005.jpg": "/yafa60/static/media/IMG-20250127-WA0005.7cbc39b2730b5c93e8db.jpg",
     "static/media/IMG-20250127-WA0011.jpg": "/yafa60/static/media/IMG-20250127-WA0011.5c3954323eb600eb7bc2.jpg",
@@ -12,10 +12,10 @@
     "static/media/IMG-20250127-WA0006.jpg": "/yafa60/static/media/IMG-20250127-WA0006.2254de4328e23c063206.jpg",
     "index.html": "/yafa60/index.html",
     "main.4e1e97cb.css.map": "/yafa60/static/css/main.4e1e97cb.css.map",
-    "main.3810fe42.js.map": "/yafa60/static/js/main.3810fe42.js.map"
+    "main.9f9edc9d.js.map": "/yafa60/static/js/main.9f9edc9d.js.map"
   },
   "entrypoints": [
     "static/css/main.4e1e97cb.css",
-    "static/js/main.3810fe42.js"
+    "static/js/main.9f9edc9d.js"
   ]
 }
