@@ -32,9 +32,10 @@ function shuffleArray(array: any[]) {
   
   // Shuffle the groups
   const shuffledGroups = shuffleArray(groups);
+
   
   // Flatten the shuffled groups to reconstruct the pipeline
-  const shuffledPipeline = shuffledGroups.flat();
+
   
   
 
@@ -44,15 +45,15 @@ function shuffleArray(array: any[]) {
 const Blessings = () => {
 
     const [index,setIndex] = useState(4);
-    const [pipeline,setPipeline] = useState(shuffledPipeline.slice(0, index));
+    const [pipeline,setPipeline] = useState(shuffledGroups.slice(0, index));
     const handleScroll = () => {
         if (window.innerHeight + window.scrollY >= document.body.offsetHeight*0.99) {
             setIndex(prevIndex => {
-                const newIndex = (prevIndex + 4) >= shuffledPipeline.length ? 0 : prevIndex + 4;
+                const newIndex = (prevIndex + 4) >= shuffledGroups.length ? 0 : prevIndex + 4;
                 
                 setPipeline(prevPipeline => [
                     ...prevPipeline, 
-                    ...shuffledPipeline.slice(newIndex, newIndex + 4)
+                    ...shuffledGroups.slice(newIndex, newIndex + 4)
                 ]);
     
                 return newIndex;
@@ -71,10 +72,17 @@ const Blessings = () => {
         return (
         <div className='blessings-page'>
             <h1 className="title-business-page">Blessings Page</h1>
-            {pipeline.map((item, i) => 
-                item.includes('jpg') || item.includes('png') || item.includes('jpeg') ? 
-                (<ImageBless key={i} imageName={item} />) : 
-                (<VideoBless key={i} videoName={item} />)
+            {pipeline.map((item, i) =>{ 
+                
+                if (item[0].includes('jpg') || item[0].includes('png') || item[0].includes('jpeg')) {
+                    
+                    
+                    return (<ImageBless key={i} imageNames={item} />)
+                }
+                else {
+                    return (<VideoBless key={i} videoNames={item} />)
+                }
+                }
             )}
         </div>
     );
