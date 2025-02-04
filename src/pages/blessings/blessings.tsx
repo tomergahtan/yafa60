@@ -126,6 +126,8 @@ const Blessings = () => {
         return (
         <div className='blessings-page'>
             <h1 className="title-business-page">אימוש היקרה הכנתי לך אתר שתוכלי לראות את כל החוויות שצברת עד כה</h1>
+            
+            <ImageBless imageNames={[`mainimage.jpg`]} key={600}></ImageBless>
             {pipeline.map((item, i) =>{ 
                 
                 if (item[0].toLowerCase().includes('jpg') || item[0].includes('png') || item[0].includes('jpeg')) {
