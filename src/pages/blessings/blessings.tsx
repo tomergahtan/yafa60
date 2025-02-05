@@ -17,6 +17,10 @@ function shuffleArray(array: any[]) {
   
   // Original pipeline array
   const images = [
+    'צליל.jpg',
+     'שלמה.jpg',
+      'קרן.jpg',
+      'דניאלה.jpg',
     '2003 - טיול לבית אלפא.JPG', '2003 - טיול לצפון.JPG', '2006 ים המלח פורים.JPG', '20250117_130654.jpg',
     '22.11.1993 חינה (1).jpg', '22.11.1993 חינה (2).jpg', '22.11.1993 חינה (3).jpg',
     '22.11.1993 חינה (4).jpg', '22.11.1993 חינה (5).jpg', '22.11.1993 חינה.jpg', '24.11.1993.jpg', 
@@ -81,7 +85,8 @@ function shuffleArray(array: any[]) {
     'יפה כוכבת בידור אצל עדי אשכנזי.mp4', 
     'משמר המלכה סקוטלנד 2015.mp4', 
     'שיט לוויתנים סקוטלנד 2015.mp4', 
-    'תאכל בן שלי תאכל.mp4']
+    'תאכל בן שלי תאכל.mp4'
+    ]
   ;
     const merged_files = images.concat(videos);
   // Separate into groups
@@ -106,9 +111,10 @@ const Blessings = () => {
     const handleScroll = () => {
         if (window.innerHeight + window.scrollY >= document.body.offsetHeight*0.99) {
             setIndex(prevIndex => {
-                const newIndex = (prevIndex + 4) >= shuffledGroups.length ? 0 : prevIndex + 4;
+                const newIndex = Math.min(prevIndex + 4, shuffledGroups.length);
                 
-                setPipeline(shuffledGroups.slice(0, newIndex));
+                if (newIndex<=shuffledGroups.length)
+                    setPipeline(shuffledGroups.slice(0, newIndex));
     
                 return newIndex;
             });
