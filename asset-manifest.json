@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/yafa60/static/css/main.919a2d59.css",
-    "main.js": "/yafa60/static/js/main.5972a121.js",
+    "main.css": "/yafa60/static/css/main.2e1d3fae.css",
+    "main.js": "/yafa60/static/js/main.48aa01bf.js",
     "static/media/גם את הברווזים מאכילה רודוס 2016.mp4": "/yafa60/static/media/גם את הברווזים מאכילה רודוס 2016.9e2568d04233b7692849.mp4",
     "static/media/שיט לוויתנים סקוטלנד 2015.mp4": "/yafa60/static/media/שיט לוויתנים סקוטלנד 2015.7b783188370540f9a7c8.mp4",
     "static/media/ברכה עדנה טלר (חברה מימי הונג-קונג).mp4": "/yafa60/static/media/ברכה עדנה טלר (חברה מימי הונג-קונג).8c5ef6c91601ec1f8dd8.mp4",
@@ -199,6 +199,7 @@
     "static/media/מונטנגרו 2022.jpg": "/yafa60/static/media/מונטנגרו 2022.78a7df3c7d7ac0b80081.jpg",
     "static/media/בחתונה של נתי מינכן 2024.jpg": "/yafa60/static/media/בחתונה של נתי מינכן 2024.9ded936a598116d22031.jpg",
     "static/media/שרונה ומשפחת מזור.jpg": "/yafa60/static/media/שרונה ומשפחת מזור.f3cd0cae41b99a0034d6.jpg",
+    "static/media/שלמה.jpg": "/yafa60/static/media/שלמה.c83400bcd733e51ca770.jpg",
     "static/media/IMG-20250127-WA0005.jpg": "/yafa60/static/media/IMG-20250127-WA0005.7cbc39b2730b5c93e8db.jpg",
     "static/media/ברצלונה 2017.jpg": "/yafa60/static/media/ברצלונה 2017.875f5b901dc6358cdf14.jpg",
     "static/media/דניאל בן שושן.jpg": "/yafa60/static/media/דניאל בן שושן.51a2ed635dcd34c89be3.jpg",
@@ -210,6 +211,7 @@
     "static/media/דרום איטליה 2023.jpg": "/yafa60/static/media/דרום איטליה 2023.fa5b54247f8523bf3f04.jpg",
     "static/media/IMG-20250127-WA0011.jpg": "/yafa60/static/media/IMG-20250127-WA0011.5c3954323eb600eb7bc2.jpg",
     "static/media/כוכבה ומשפחת קדמי.jpg": "/yafa60/static/media/כוכבה ומשפחת קדמי.c470092c9e6898442fba.jpg",
+    "static/media/צליל.jpg": "/yafa60/static/media/צליל.30c38ebdc33cb12ea991.jpg",
     "static/media/אריאל גיא.jpg": "/yafa60/static/media/אריאל גיא.9e342370e308b32a574d.jpg",
     "static/media/עם רינה ענתי.jpg": "/yafa60/static/media/עם רינה ענתי.07d6735aae9b924c9e88.jpg",
     "static/media/ליאור ומשפחת כנפי 1.jpg": "/yafa60/static/media/ליאור ומשפחת כנפי 1.bca69611f25acc8f4dbf.jpg",
@@ -238,9 +240,11 @@
     "static/media/משפחת דנציגר 2.jpg": "/yafa60/static/media/משפחת דנציגר 2.3a090322fad9255de04f.jpg",
     "static/media/איזה טעים זה הולך להיות....jpg": "/yafa60/static/media/איזה טעים זה הולך להיות....6a142b623c89343565bc.jpg",
     "static/media/משפחת גראייק.jpg": "/yafa60/static/media/משפחת גראייק.17390e39b390243ebc37.jpg",
+    "static/media/קרן.jpg": "/yafa60/static/media/קרן.a95aa0c5ea4fabbc3e0b.jpg",
     "static/media/אנדורה 2017 (3).jpg": "/yafa60/static/media/אנדורה 2017 (3).b64f7f958628ed7e7bc7.jpg",
     "static/media/דרום איטליה 2023 (4).jpg": "/yafa60/static/media/דרום איטליה 2023 (4).eba133e11174efb87fa4.jpg",
     "static/media/משפחת שטפל.jpg": "/yafa60/static/media/משפחת שטפל.3c5a413047ad38891a81.jpg",
+    "static/media/דניאלה.jpg": "/yafa60/static/media/דניאלה.f7ac5cc9560cab14ecdf.jpg",
     "static/media/ברכה ויוסי איינהורן.jpg": "/yafa60/static/media/ברכה ויוסי איינהורן.3848a31eca46b6e2600b.jpg",
     "static/media/מאירינגן שוויץ - המפלים של שרלוק  הולמס 2006.jpg": "/yafa60/static/media/מאירינגן שוויץ - המפלים של שרלוק  הולמס 2006.3c00fe4c46eb8d52f096.jpg",
     "static/media/אפרת קינן.jpg": "/yafa60/static/media/אפרת קינן.bd3fc33e0a4059ebbce8.jpg",
@@ -299,11 +303,11 @@
     "static/media/עם השכנות ג'ני מיכל וליאת.jpg": "/yafa60/static/media/עם השכנות ג'ני מיכל וליאת.b89dd1ff7de3609502a3.jpg",
     "static/media/גננת בהונג-קונג 1996-98.jpg": "/yafa60/static/media/גננת בהונג-קונג 1996-98.b75562f5eae935349114.jpg",
     "index.html": "/yafa60/index.html",
-    "main.919a2d59.css.map": "/yafa60/static/css/main.919a2d59.css.map",
-    "main.5972a121.js.map": "/yafa60/static/js/main.5972a121.js.map"
+    "main.2e1d3fae.css.map": "/yafa60/static/css/main.2e1d3fae.css.map",
+    "main.48aa01bf.js.map": "/yafa60/static/js/main.48aa01bf.js.map"
   },
   "entrypoints": [
-    "static/css/main.919a2d59.css",
-    "static/js/main.5972a121.js"
+    "static/css/main.2e1d3fae.css",
+    "static/js/main.48aa01bf.js"
   ]
 }
