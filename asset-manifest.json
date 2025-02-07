@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/yafa60/static/css/main.d635725d.css",
-    "main.js": "/yafa60/static/js/main.0c017cbc.js",
+    "main.js": "/yafa60/static/js/main.1a449629.js",
     "static/media/גם את הברווזים מאכילה רודוס 2016.mp4": "/yafa60/static/media/גם את הברווזים מאכילה רודוס 2016.9e2568d04233b7692849.mp4",
     "static/media/שיט לוויתנים סקוטלנד 2015.mp4": "/yafa60/static/media/שיט לוויתנים סקוטלנד 2015.7b783188370540f9a7c8.mp4",
     "static/media/ברכה עדנה טלר (חברה מימי הונג-קונג).mp4": "/yafa60/static/media/ברכה עדנה טלר (חברה מימי הונג-קונג).8c5ef6c91601ec1f8dd8.mp4",
@@ -285,10 +285,8 @@
     "static/media/בטיול לגליל עם החברים אבי רינת ברק וקארון.jpg": "/yafa60/static/media/בטיול לגליל עם החברים אבי רינת ברק וקארון.e2453ba200912187b7bd.jpg",
     "static/media/IMG-20250202-WA0165.jpg": "/yafa60/static/media/IMG-20250202-WA0165.a195d3a05442d7b48607.jpg",
     "static/media/IMG-20250202-WA0199.jpg": "/yafa60/static/media/IMG-20250202-WA0199.58f065402d48333a1788.jpg",
-    "static/media/IMG-20250127-WA0008.jpg": "/yafa60/static/media/IMG-20250127-WA0008.b0d598e8eb921d889eaf.jpg",
     "static/media/משפחת דנציגר 1.jpg": "/yafa60/static/media/משפחת דנציגר 1.b0d598e8eb921d889eaf.jpg",
     "static/media/IMG-20250202-WA0231.jpg": "/yafa60/static/media/IMG-20250202-WA0231.ba1acfc621e750eca6ac.jpg",
-    "static/media/IMG-20250127-WA0009.jpg": "/yafa60/static/media/IMG-20250127-WA0009.44b70423726432ef7f0b.jpg",
     "static/media/משפחת דנציגר 2.jpg": "/yafa60/static/media/משפחת דנציגר 2.3a090322fad9255de04f.jpg",
     "static/media/IMG-20250202-WA0187.jpg": "/yafa60/static/media/IMG-20250202-WA0187.6a142b623c89343565bc.jpg",
     "static/media/איזה טעים זה הולך להיות....jpg": "/yafa60/static/media/איזה טעים זה הולך להיות....6a142b623c89343565bc.jpg",
@@ -471,10 +469,10 @@
     "static/media/גננת בהונג-קונג 1996-98.jpg": "/yafa60/static/media/גננת בהונג-קונג 1996-98.b75562f5eae935349114.jpg",
     "index.html": "/yafa60/index.html",
     "main.d635725d.css.map": "/yafa60/static/css/main.d635725d.css.map",
-    "main.0c017cbc.js.map": "/yafa60/static/js/main.0c017cbc.js.map"
+    "main.1a449629.js.map": "/yafa60/static/js/main.1a449629.js.map"
   },
   "entrypoints": [
     "static/css/main.d635725d.css",
-    "static/js/main.0c017cbc.js"
+    "static/js/main.1a449629.js"
   ]
 }
